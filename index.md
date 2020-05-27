@@ -1,11 +1,24 @@
-# About
+# Welcome to My Little World :)
 
-Welcome to visit my online notebook! 
+Hello, world!
 
-I'd like to share with you three important notes that, in my own viewpoint, reveal all the secrets behind in English.
+I am Rapunzel, from Nanjing University. This is a tiny secret base for storing my notebooks. Here I want to share with you my study results of  *[Writing Skills Training Lesson](https://box.nju.edu.cn/d/846382eb067c49f294c0/)* by Xiaolai Li.  
 
-1.  [英文观止](english/a_thought_on_english.md)
-2.  [人间词话](english/phonetic_phonics.md)
-3.  [格林法则](english/grimms_law.md)
+The structure is shown below.
+
+1.  Lesson Content Summary 
+    * lesson 1
+    * lesson 2
+    * lesson 3
+2.  Personal Reflection 
+    * 3-link model for everything
+    * stubborn change
+    * slash youngster
+    * real, realistic world
+    * logic, statistics, and historical methodology
 
 Hope you enjoy them! 
+
+
+
+***Acknowledgement***: I am deeply grateful to my teacher Zhenghua Long's guidance and inspiration for establishing a personal website and other insights.

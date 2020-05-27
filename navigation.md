@@ -1,29 +1,30 @@
-# NOTEBOOK
+# Hey! What Are You Looking At?
 
-[CONTENTS](navigation.md)
+[李笑来写作课感悟](navigation.md)
 
-[英文观止]()
+[课程内容总结]()
 
-*   [lessom1-2](english/note1&amp;2.md)
-*   [lesson3-4](english/note3&amp;4md)
-*   [lesson5-6](english/note5&amp;6.md)
-*   [lesson7-8](english/note7&amp;8.md)
-*   [lesson9-10](english/note9&amp;10.md)
-*   [lesson11-12](english/note11&amp;12.md)
-*   [lesson13-14](english/note13&amp;14.md)
-*   [lesson15-16](english/note15&amp;16.md)
-*   [lesson17-18](english/note17&amp;18.md)
-*   [lesson19-21](english/note19-21.md)
-*   [心得体会](english/extra.md)
-*   [色彩标注法](english/Colorful Equations with MathJax.md)
+*   [lesson1](LXL/lesson1.md)
+*   [lesson2](LXL/lesson2.md)
+*   [lesson3](LXL/lesson3.md)
 
-[自然拼读]()
 
-[格林法则 ]()
+[个人心得体会]()
 
-[人间词话]()
+*   [用“输出—处理—输出”看问题](LXL/reflection1.md)
+*   [“执拗地”改变](LXL/reflection2.md)
+*   [成为”斜杠青年“](LXL/reflection3.md)
+*   [真实，真实的世界](LXL/reflection4.md)
+*   [逻辑、统计概率和历史方法论](LXL/reflection5.md)
 
-[gimmick:theme](yeti)
+
+[小火车嘟嘟嘟]()
+
+[大白兔汪汪汪]()
+
+[祝你生活愉快，岁岁平安]()
+
+[gimmick:theme](amelia)
 [gimmick: math]()
 
 
