@@ -1,2 +1,2 @@
-# njulyc.github.io
-*** LYC's first website! ***
+# zhenghualong.github.io
+My online notebook
